@@ -1,0 +1,8 @@
+PIP
+virtual env
+django-registration
+mapnik
+gdal
+tilecache
+osm
+...
